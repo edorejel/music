@@ -21,7 +21,7 @@
 
 - Paul Oakenfold - Ready Steady Go - Collateral - Soundtrack https://www.youtube.com/watch?v=PhsmeL_fupM
 - Collateral (2004) - Developing Character https://www.youtube.com/watch?v=9pjDZND_3u4 (*Good analysis. Since this movie is a Michael Mann film, you can view the film from a religious perspective. Tom Cruise is playing God. Jamie Foxx is a regular guy that God uses to commit evil deeds.*)
-- Context for God committing evil deeds taken from here: __Al Pacino Kills God (and that's okay):__ https://github.com/xpqx/softwareEngineering/tree/master/define_your_own_software/mind_vision#al-pacino-movies-heat-and-devils-advocate-and-the-recruit
+- Context for God committing evil deeds taken from here: __Al Pacino Kills God (and that's okay):__ https://github.com/xpqx/software-design-lab/tree/main/ai_mind_vision#al-pacino-movies-heat-and-devils-advocate-and-the-recruit
 - I have to formalize Al Pacino Kills God (and that's okay).
 - Viewing movies from religious perspectives is just another tool to make movies interesting while expanding your thinking.
 
